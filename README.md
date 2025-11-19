@@ -65,7 +65,9 @@ A curated list of awesome Arabic Natural Language Processing (NLP) resources, in
 | **ALLaM** | 7B | SDAIA & IBM | Saudi's Sovereign Model | [Hugging Face](https://huggingface.co/ALLaM-AI/ALLaM-7B-Instruct-preview) |
 | **Fanar-1-9B** | 9B | QCRI | Arabic-English LLM | [Hugging Face](https://huggingface.co/QCRI/Fanar-1-9B-Instruct) |
 | **AceGPT** | 7B | FreedomIntelligence | Top performance on Arabic benchmarks | [GitHub](https://github.com/FreedomIntelligence/AceGPT) |
+| **Atlas-Chat** | 2B, 9B, 27B | MBZUAI-IFM Paris Lab| LLM family for Moroccan (Darija) dialect | [Hugging Face](https://huggingface.co/collections/MBZUAI-Paris/atlas-chat) |
 | **NileChat-3B** | 3B | UBC-NLP | LLM for Egyptian and Moroccan dialects | [Hugging Face](https://huggingface.co/UBC-NLP/NileChat-3B) |
+| **Nile-Chat** | 4B, 3x4B-A6B, 12B | MBZUAI-IFM Paris Lab| LLM family for Egyptian Arabic and Latin (Arabizi) scripts | [Hugging Face](https://huggingface.co/collections/MBZUAI-Paris/nile-chat) |
 | **AraGPT2** | 1.5B | AUB MIND Lab | GPT-2 for Arabic text generation | [Hugging Face](https://huggingface.co/aubmindlab/aragpt2-mega) |
 | **Llama 3.3** | 70B | Meta | Strong Arabic performance | [Hugging Face](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct) |
 | **Qwen 3** | 0.6B-235B | Alibaba | Multilingual model with Arabic support | [Hugging Face](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f) |
