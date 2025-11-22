@@ -95,10 +95,12 @@ A curated list of awesome Arabic Natural Language Processing (NLP) resources, in
 
 | Model | Developer | Key Features | Link |
 |---|---|---|---|
+| **BGE-M3** | BAAI | Multilingual (100+ langs including Arabic), Multi-Functionality (Dense, Sparse, Multi-vector), 8192 token context | [Hugging Face](https://huggingface.co/BAAI/bge-m3) |
 | **GATE-AraBert-v1** | Omartificial-Intelligence-Space | General Arabic Text Embedding, SOTA on MTEB Arabic STS | [Hugging Face](https://huggingface.co/Omartificial-Intelligence-Space/GATE-AraBert-v1) |
 | **Arabic-Triplet-Matryoshka-V2** | Omartificial-Intelligence-Space | Matryoshka representation for efficient embedding | [Hugging Face](https://huggingface.co/Omartificial-Intelligence-Space/Arabic-Triplet-Matryoshka-V2) |
 | **Swan** | UBC-NLP | Dialect-aware and cross-lingual (Small & Large versions) | [Paper](https://arxiv.org/abs/2411.01192) |
 | **asafaya/bert-base-arabic** | asafaya | BERT-based Arabic embeddings | [Hugging Face](https://huggingface.co/asafaya/bert-base-arabic) |
+
 
 ### Task-Specific Models
 
