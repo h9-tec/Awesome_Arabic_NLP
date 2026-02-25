@@ -43,6 +43,7 @@ Models · Datasets · Tools · Research · Companies
 - [🔧 Essential Tools & Libraries](#-essential-tools--libraries)
 - [📄 Research Papers & Conferences](#-research-papers--conferences)
 - [🎓 Tutorials & Learning Resources](#-tutorials--learning-resources)
+- [🏛️ Research Institutions](#%EF%B8%8F-research-institutions)
 - [🏭 Companies & Startups](#-companies--startups)
 - [📚 Awesome Lists](#-awesome-lists)
 
@@ -68,7 +69,11 @@ Models · Datasets · Tools · Research · Companies
 | **NAMAA-Space** | OCR and Egyptian Arabic models | Qari-OCR, EgypTalk-ASR | [![HF](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/NAMAA-Space) |
 | **Omartificial-Intelligence-Space** | Arabic embedding models | GATE, Matryoshka embeddings | [![HF](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/Omartificial-Intelligence-Space) |
 | **TII (Technology Innovation Institute)** | Arabic LLM benchmarks, Falcon | Open Arabic LLM Leaderboard, Falcon LLM | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://www.tii.ae/) |
-| **SDAIA (Saudi Data & AI Authority)** | Sovereign Arabic LLM | ALLaM model | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://sdaia.gov.sa/) |
+| **SDAIA (Saudi Data & AI Authority)** | Sovereign Arabic LLM, national AI strategy | ALLaM model, SADA dataset, BALSAM benchmark | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://sdaia.gov.sa/) |
+| **HUMAIN (Saudi PIF)** | Full-stack AI company | ALLaM 34B, HUMAIN Chat, AI factories | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://www.humain.com/) |
+| **KAUST** | AI research, Arabic NLP | Center of Excellence in Generative AI | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://cemse.kaust.edu.sa/) |
+| **KFUPM-JRCAI** | Joint SDAIA-KFUPM AI research | Arabic AI text detection datasets | [![HF](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/KFUPM-JRCAI) |
+| **Prince Sultan University (RIOTU)** | Arabic language models | ArabianGPT, Arabic IoT AI | [![HF](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/riotu-lab) |
 | **SinaLab, Birzeit University** | Arabic NLP tools and datasets | SinaTools, Wojood NER | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/SinaLab) |
 | **G42 / Inception AI** | Arabic-centric LLMs | Jais LLM family | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://www.g42.ai/) |
 | **FreedomIntelligence** | Arabic LLMs and alignment | AceGPT, Arabic cultural datasets | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/FreedomIntelligence) |
@@ -123,7 +128,8 @@ Models · Datasets · Tools · Research · Companies
 | **AraGPT2** | 1.5B | AUB MIND Lab | GPT-2 for Arabic text generation | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/aubmindlab/aragpt2-mega) |
 | **Command R7B Arabic** | 7B | Cohere | Arabic-optimized Command R variant | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/CohereLabs/c4ai-command-r7b-arabic-02-2025) |
 | **SambaLingo-Arabic** | 7B, 70B | SambaNova | Arabic-adapted Llama 2 | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/sambanovasystems/SambaLingo-Arabic-Chat) |
-| **ArabianGPT** | - | - | Native Arabic GPT-based LLM | [![Paper](https://img.shields.io/badge/-Paper-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2402.15313) |
+| **ArabianGPT** | 0.1B | Prince Sultan University | GPT-2 for Arabic, RIOTU Lab | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/riotu-lab/ArabianGPT-01B) |
+| **Nuha** | - | Elm (Saudi) | Multi-modal Arabic-first LLM for gov services, dialect-aware | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://elm.sa/en/about-us/why-elm/case-studies/Pages/Nuha-Bridging-Technology-and-Arabic-Culture.aspx) |
 | **Llama 3.3** | 70B | Meta | Strong Arabic performance | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/meta-llama/Llama-3.3-70B-Instruct) |
 | **Qwen 3** | 0.6B-235B | Alibaba | Multilingual with Arabic support | [![HF](https://img.shields.io/badge/-Collection-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/collections/Qwen/qwen3-67dd247413f0e2e4f653967f) |
 | **Gemma 3** | 1B-27B | Google | Multimodal capabilities | [![HF](https://img.shields.io/badge/-Collection-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d) |
@@ -176,6 +182,8 @@ Models · Datasets · Tools · Research · Companies
 | **MARBERTv2** | UBC-NLP | Updated with improved dialectal coverage | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/UBC-NLP/MARBERTv2) |
 | **AraELECTRA** | AUB MIND Lab | ELECTRA for Arabic | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/aubmindlab/araelectra-base-discriminator) |
 | **AraT5** | UBC-NLP | T5 for Arabic summarization, translation, paraphrasing | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/UBC-NLP/AraT5-base) |
+| **SaudiBERT** | King Saud University | Saudi dialect BERT, trained on 141M tweets (STMC) + forums | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/faisalq/SaudiBERT) |
+| **SA-BERT-V1** | Omartificial-Intelligence-Space | Saudi Arabic BERT, fine-tuned MARBERTv2 | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/Omartificial-Intelligence-Space/SA-BERT-V1) |
 
 ### 🔤 Embedding Models
 
@@ -382,6 +390,8 @@ Models · Datasets · Tools · Research · Companies
 | **BAREC Corpus** | Arabic Readability Assessment | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/CAMeL-Lab/BAREC-Corpus-v1.0) |
 | **palm** | Human-created Arabic instruction dataset | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/UBC-NLP/palm) |
 | **dialogue-arabic-dialects** | Levantine, Egyptian, Gulf dialect dialogues | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/tareknaous/dialogue-arabic-dialects) |
+| **STMC** | Saudi Tweets Mega Corpus (141M+ Saudi dialect tweets) | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/faisalq/STMC) |
+| **KFUPM Arabic AI Text Detection** | Machine-generated Arabic text across multiple LLMs | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/KFUPM-JRCAI/arabic-generated-abstracts) |
 
 ### 🎤 Speech Datasets
 
@@ -392,7 +402,8 @@ Models · Datasets · Tools · Research · Companies
 | **Arabic-English Code-Switching** | Code-switching speech from YouTube | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/MohamedRashad/arabic-english-code-switching) |
 | **Egyptian Arabic ASR Clean** | ~72 hours of Egyptian Arabic speech | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/MAdel121/arabic-egy-cleaned) |
 | **MADIS5** | Spoken Arabic dialects | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/badrex/MADIS5-spoken-arabic-dialects) |
-| **SADA22** | MSA and Khaliji speech | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/badrex/arabic-speech-SADA22-MSA) |
+| **SADA** | Saudi Audio Dataset: 668h from 57 TV shows, multi-dialect (SDAIA) | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/m6011/sada2022) |
+| **SADA22 (MSA)** | MSA subset of SADA, Khaliji speech | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/badrex/arabic-speech-SADA22-MSA) |
 | **SawtArabi** | Arabic speech dataset | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/ArabicSpeech/sawtarabi) |
 
 ### 🖼️ Vision & Multimodal Datasets
@@ -482,6 +493,8 @@ Models · Datasets · Tools · Research · Companies
 - **CATT** — Character-based Arabic Tashkeel Transformer (2024) [[14]](#references)
 - **ArabianGPT** — Native Arabic GPT-based LLM (2024) [[15]](#references)
 - **SambaLingo** — Teaching LLMs New Languages (2024) [[16]](#references)
+- **SaudiBERT** — BERT Pretrained on Saudi Dialect Corpora (2024) [[17]](#references)
+- **ALLaM** — Large Language Models for Arabic and English (SDAIA & IBM, 2024) [[18]](#references)
 
 <div align="right"><a href="#-table-of-contents">⬆ Back to Top</a></div>
 
@@ -496,6 +509,8 @@ Models · Datasets · Tools · Research · Companies
 | **Arabic NLP Winter School** | Two-day intensive at MBZUAI (Jan 2025) | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://winterschool2025.sigarab.org/) |
 | **ArabicNLP Conference** | Annual ACL-affiliated conference by SIGARAB | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://arabicnlp2025.sigarab.org/) |
 | **AbjadNLP Workshop** | NLP for languages using Arabic script | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://wp.lancs.ac.uk/abjad/) |
+| **SDAIA Academy** | Saudi AI & data science training programs | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://sdaia.gov.sa/en/Sectors/academy/Pages/default.aspx) |
+| **KAUST Academy (AI Specialization)** | Free AI training for Saudi nationals | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://academy.kaust.edu.sa/program/university-students/ai-specialization/) |
 
 ### 💻 Online Resources
 
@@ -505,6 +520,28 @@ Models · Datasets · Tools · Research · Companies
 | **AUB MIND Lab Arabic-NLP Demo** | Interactive demo for Arabic NLP tasks | [![HF](https://img.shields.io/badge/-Space-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/spaces/aubmindlab/Arabic-NLP) |
 | **MoroccoAI Darija Resources** | Curated Moroccan Arabic dialect NLP resources | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/MoroccoAI/Arabic-Darija-NLP-Resources) |
 | **NNLP-IL Arabic Resources** | Comprehensive Arabic NLP resource list | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/NNLP-IL/Arabic-Resources) |
+
+<div align="right"><a href="#-table-of-contents">⬆ Back to Top</a></div>
+
+---
+
+## 🏛️ Research Institutions
+
+> Academic and government research labs driving Arabic NLP innovation.
+
+| Institution | Country | Focus | Link |
+|:---|:---|:---|:---:|
+| **KAUST (CEMSE)** | 🇸🇦 Saudi Arabia | Generative AI center, Arabic NLP research, sentiment analysis | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://cemse.kaust.edu.sa/) |
+| **SDAIA-KFUPM Joint Research Center (JRCAI)** | 🇸🇦 Saudi Arabia | Arabic AI text detection, Arabic NLP datasets | [![HF](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/KFUPM-JRCAI) |
+| **Prince Sultan University (RIOTU Lab)** | 🇸🇦 Saudi Arabia | ArabianGPT, Arabic IoT/robotics AI | [![HF](https://img.shields.io/badge/-HuggingFace-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/riotu-lab) |
+| **King Saud University** | 🇸🇦 Saudi Arabia | SaudiBERT, Saudi dialect corpora (STMC, SFC) | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/faisalq/SaudiBERT) |
+| **MBZUAI** | 🇦🇪 UAE | AIN, Atlas-Chat, ArabicMMLU, KITAB-Bench | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://mbzuai.ac.ae/) |
+| **CAMeL Lab (NYU Abu Dhabi)** | 🇦🇪 UAE | CAMeLBERT, camel_tools, morphological analysis | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://camel-lab.com/) |
+| **UBC-NLP** | 🇨🇦 Canada | MARBERT, AraT5, JASMINE, Swan, Palm dataset | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/UBC-NLP) |
+| **AUB MIND Lab** | 🇱🇧 Lebanon | AraBERT, AraGPT2, AraELECTRA | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/aub-mind) |
+| **QCRI** | 🇶🇦 Qatar | Farasa, Fanar LLM, Arabic POS tagging | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://www.hbku.edu.qa/en/qcri) |
+| **SinaLab** | 🇵🇸 Palestine | SinaTools, Wojood NER corpus | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/SinaLab) |
+| **ARBML** | 🌍 Community | masader (600+ datasets), klaam, tkseem, qawafi | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/ARBML) |
 
 <div align="right"><a href="#-table-of-contents">⬆ Back to Top</a></div>
 
@@ -530,10 +567,19 @@ Models · Datasets · Tools · Research · Companies
 
 | Company | Focus | Notable Products | Link |
 |:---|:---|:---|:---:|
-| **SDAIA** | Sovereign AI, national data authority | ALLaM model, HUMAIN initiative | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://sdaia.gov.sa/) |
+| **SDAIA** | Sovereign AI, national data authority | ALLaM model, SADA dataset, NCAI, BALSAM benchmark | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://sdaia.gov.sa/) |
+| **HUMAIN** | PIF-backed full-stack AI company | ALLaM 34B, HUMAIN Chat, 8PB Arabic training data | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://www.humain.com/) |
+| **Elm** | Digital transformation, gov AI (PIF-backed) | Nuha Arabic LLM, legal AI assistant, gov platform | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://elm.sa/en/) |
+| **Misraj AI** | Arabic-first AI ecosystem | Kawn LLM, Baseer OCR, Mutarjim, Workforces, SeamlessAPI | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://misraj.ai/) |
+| **Mozn** | Enterprise AI, Arabic NLU | OSOS Arabic NLU platform, FOCAL compliance suite | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://www.mozn.ai/) |
+| **Unifonic** | Conversational AI platform | Arabic-first CX Intelligence, AI chatbots | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://www.unifonic.com/) |
+| **Lucidya** | AI customer experience analytics | Arabic social listening, sentiment analysis | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://www.lucidya.com/) |
+| **Hudhud AI** | Arabic conversational AI (no-code SaaS) | Saudi-accent chatbots, Arabic-first customer engagement | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://hudhud.ai/) |
+| **Hazen.ai** | AI traffic safety & computer vision | Deep learning road safety, seatbelt/phone detection | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://www.hazen.ai/) |
 | **Future Look ITC (FLITC)** | Arabic-native AI solutions, venture studio | LABEAH, Smart Hire, Rayee Media, Nabadat | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://flitc.ai/) |
 | **Wittify.ai** | Conversational AI for Arabic | Interactive Arabic AI agents | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://wittify.ai/) |
-| **Lucidya** | AI customer experience analytics | Arabic social listening, sentiment analysis | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://www.lucidya.com/) |
+
+> 💡 **Saudi Arabia's AI ecosystem**: Saudi Arabia leads Arabic LLM development with 53+ Arabic language models identified by Q1 2025. Key initiatives include **HUMAIN** ($5B+ AWS partnership, NVIDIA AI factories), **Vision 2030 AI Strategy** (targeting 20,000 AI specialists, 300+ AI startups, $20B investment), and **SDAIA Academy/SAMAI** (training 1M citizens in AI).
 
 ### 🇪🇬 Egypt
 
@@ -556,6 +602,7 @@ Models · Datasets · Tools · Research · Companies
 | **Cohere** | Canada | Multilingual LLMs | Command R Arabic, RAG optimization | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://cohere.com/) |
 | **Mistral AI** | France | Multilingual LLMs | Mistral Saba (Arabic-optimized) | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://mistral.ai/) |
 | **SambaNova Systems** | USA | Arabic language adaptation | SambaLingo Arabic models | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://sambanova.ai/) |
+| **Mawdoo3** | Jordan / Saudi | Arabic AI & content, NLP toolkit | Arabic LLMs, largest Arabic website, Saudi expansion | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://mawdoo3.com/) |
 
 <div align="right"><a href="#-table-of-contents">⬆ Back to Top</a></div>
 
@@ -626,6 +673,10 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [15] ArabianGPT: Native Arabic GPT-based LLM. (2024). *arXiv:2402.15313*. https://arxiv.org/abs/2402.15313
 
 [16] SambaLingo: Teaching LLMs New Languages. (2024). *arXiv:2404.05829*. https://arxiv.org/abs/2404.05829
+
+[17] SaudiBERT: A Large Language Model Pretrained on Saudi Dialect Corpora. (2024). *arXiv:2405.06239*. https://arxiv.org/abs/2405.06239
+
+[18] ALLaM: Large Language Models for Arabic and English. (2024). *arXiv:2407.15390*. https://arxiv.org/abs/2407.15390
 
 ---
 
