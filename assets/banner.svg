@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300" viewBox="0 0 900 300">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0f0c29;stop-opacity:1" />
+      <stop offset="50%" style="stop-color:#302b63;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#24243e;stop-opacity:1" />
+    </linearGradient>
+    <linearGradient id="gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#f5af19;stop-opacity:1" />
+      <stop offset="100%" style="stop-color:#f12711;stop-opacity:0.8" />
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="300" fill="url(#bg)" rx="12"/>
+
+  <!-- Geometric pattern (Islamic-inspired) -->
+  <g opacity="0.08" fill="none" stroke="#f5af19" stroke-width="0.5">
+    <circle cx="100" cy="150" r="80"/>
+    <circle cx="100" cy="150" r="60"/>
+    <circle cx="100" cy="150" r="40"/>
+    <circle cx="800" cy="150" r="80"/>
+    <circle cx="800" cy="150" r="60"/>
+    <circle cx="800" cy="150" r="40"/>
+    <polygon points="100,70 130,130 100,110 70,130"/>
+    <polygon points="100,230 130,170 100,190 70,170"/>
+    <polygon points="800,70 830,130 800,110 770,130"/>
+    <polygon points="800,230 830,170 800,190 770,170"/>
+    <!-- Stars -->
+    <circle cx="200" cy="50" r="20"/>
+    <circle cx="700" cy="50" r="20"/>
+    <circle cx="200" cy="250" r="20"/>
+    <circle cx="700" cy="250" r="20"/>
+    <circle cx="450" cy="30" r="15"/>
+    <circle cx="450" cy="270" r="15"/>
+  </g>
+
+  <!-- Decorative line -->
+  <line x1="250" y1="95" x2="650" y2="95" stroke="url(#gold)" stroke-width="1" opacity="0.6"/>
+
+  <!-- Arabic text -->
+  <text x="450" y="80" text-anchor="middle" font-family="serif" font-size="28" fill="#f5af19" opacity="0.9" filter="url(#glow)">
+    معالجة اللغة العربية
+  </text>
+
+  <!-- Main title -->
+  <text x="450" y="145" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="48" font-weight="bold" fill="white" filter="url(#glow)">
+    Awesome Arabic NLP
+  </text>
+
+  <!-- Decorative line -->
+  <line x1="250" y1="165" x2="650" y2="165" stroke="url(#gold)" stroke-width="1" opacity="0.6"/>
+
+  <!-- Subtitle -->
+  <text x="450" y="200" text-anchor="middle" font-family="system-ui, -apple-system, sans-serif" font-size="18" fill="#b8b8d4">
+    A curated collection of Arabic NLP models, datasets, tools &amp; research
+  </text>
+
+  <!-- Stats bar -->
+  <rect x="250" y="225" width="400" height="35" rx="17" fill="white" opacity="0.1"/>
+  <text x="330" y="248" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#e0e0e0">
+    🤖 Models
+  </text>
+  <text x="410" y="248" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#e0e0e0">
+    📊 Datasets
+  </text>
+  <text x="490" y="248" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#e0e0e0">
+    🔧 Tools
+  </text>
+  <text x="570" y="248" text-anchor="middle" font-family="system-ui, sans-serif" font-size="13" fill="#e0e0e0">
+    📄 Papers
+  </text>
+</svg>
