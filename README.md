@@ -456,7 +456,6 @@ Models · Datasets · Tools · Research · Companies
 | **Intella** | Arabic speech AI intelligence | Arabic STT across 25+ dialects (95.7% accuracy), Ziila digital human | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://intella.ai/) |
 | **WideBot AI** | Arabic-first conversational AI | AQL Arabic LLM, chatbots, voicebots, AI agents | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://widebot.ai/) |
 | **Crowd Analyzer** | Arabic social media monitoring | Arabic NLP analytics, sentiment analysis, media monitoring | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://crowdanalyzer.com/) |
-| **Velents** | Enterprise Arabic AI solutions | Agent.sa (Arabic-speaking AI employee) | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://velents.com/) |
 | **Synapse Analytics** | AI for financial inclusion | ML-powered credit scoring, Arabic data analytics | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://synapseanalytics.com/) |
 | **Kngine** | Semantic search & NLP | Arabic semantic search, data mining, knowledge engine | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://kngine.com/) |
 | **Monta AI** | Enterprise AI solutions | AI automation for Arabic business workflows | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://monta-ai.com/) |
