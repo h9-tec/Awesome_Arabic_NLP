@@ -97,6 +97,7 @@ Models · Datasets · Tools · Research · Companies
 | **ArabicRAGB** | Arabic RAG Benchmark (multi-dialect) | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/HeshamHaroon/ArabicRAGB) |
 | **ACVA** | Arabic Cultural Value Alignment (8000+ questions, 58 areas) | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/FreedomIntelligence/ACVA-Arabic-Cultural-Value-Alignment) |
 | **AraDiCE** | Benchmarks for dialectal and cultural capabilities of LLMs | [![Paper](https://img.shields.io/badge/-Paper-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2409.11404) |
+| **Open Universal Arabic ASR Leaderboard** | Multi-dialectal Arabic speech recognition benchmark | [![HF](https://img.shields.io/badge/-Leaderboard-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/spaces/elmresearchcenter/open_universal_arabic_asr_leaderboard) |
 
 <div align="right"><a href="#-table-of-contents">⬆ Back to Top</a></div>
 
@@ -213,6 +214,20 @@ Models · Datasets · Tools · Research · Companies
 | **wav2vec2-large-xlsr-53-arabic** | Fine-tuned on Common Voice & Arabic Speech Corpus | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/jonatasgrosman/wav2vec2-large-xlsr-53-arabic) |
 | **artst_asr_v3** | ArTST for ASR on MGB2 (best for MSA) | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/MBZUAI/artst_asr_v3) |
 | **EgypTalk-ASR-v2** | High-performance ASR for Egyptian Arabic | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/NAMAA-Space/EgypTalk-ASR-v2) |
+| **whisper-large-v3-turbo** | 4x faster Whisper, Arabic support, MIT license | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/openai/whisper-large-v3-turbo) |
+| **NVIDIA FastConformer Arabic** | SOTA Arabic ASR, 115M params, 760h training, CC-BY-4.0 | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/nvidia/stt_ar_fastconformer_hybrid_large_pc_v1.0) |
+| **NVIDIA FastConformer Arabic (Diacritics)** | Arabic ASR with diacritical marks, 1100h training | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/nvidia/stt_ar_fastconformer_hybrid_large_pcd_v1.0) |
+| **SeamlessM4T v2** | Meta's all-in-one ASR + translation, ~100 languages inc. Arabic | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/facebook/seamless-m4t-v2-large) |
+| **MMS-1b-all** | Meta's Massively Multilingual Speech, ASR for 1100+ languages | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/facebook/mms-1b-all) |
+| **SpeechBrain wav2vec2 Arabic** | Wav2Vec2 + CTC fine-tuned on CommonVoice 14 Arabic | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/speechbrain/asr-wav2vec2-commonvoice-14-ar) |
+| **HuBERT-Large Arabic** | HuBERT fine-tuned on 2000h Arabic, 17.68% WER | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/asafaya/hubert-large-arabic-transcribe) |
+| **HuBERT Egyptian Arabic** | HuBERT fine-tuned for Egyptian dialect on MGB-3 | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/omarxadel/hubert-large-arabic-egyptian) |
+| **Whisper Quran** | Whisper fine-tuned for Quranic recitation recognition | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/tarteel-ai/whisper-base-ar-quran) |
+| **Whisper Egyptian Arabic** | Whisper-medium fine-tuned on 72h Egyptian speech | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/MAdel121/whisper-medium-egy) |
+| **Whisper Arabic (small)** | Whisper-small fine-tuned for Arabic language | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/ayoubkirouane/whisper-small-ar) |
+| **KalemaTech Arabic STT** | Whisper-small optimized for Arabic STT | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/Salama1429/KalemaTech-Arabic-STT-ASR-based-on-Whisper-Small) |
+| **Voxtral Mini** | Mistral's speech model, 3B, Arabic support, Apache 2.0 | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/mistralai/Voxtral-Mini-3B-2507) |
+| **Klaam** | Arabic ASR/TTS/classification library (MSA + Egyptian) | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/ARBML/klaam) |
 
 ### 🔊 Text-to-Speech (TTS)
 
