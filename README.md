@@ -236,6 +236,25 @@ Models · Datasets · Tools · Research · Companies
 | **facebook/mms-tts-ara** | Facebook's Massively Multilingual Speech | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/facebook/mms-tts-ara) |
 | **speecht5_tts_clartts_ar** | SpeechT5 for Classical Arabic TTS | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/MBZUAI/speecht5_tts_clartts_ar) |
 | **F5-TTS-Arabic** | F5-TTS with regional diversity | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/IbrahimSalah/F5-TTS-Arabic) |
+| **Arabic-F5-TTS-v2** | Improved F5-TTS Arabic fine-tune | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/IbrahimSalah/Arabic-F5-TTS-v2) |
+| **Arabic-TTS-Spark** | Spark TTS fine-tuned on 300h clean Arabic, MSA with diacritics | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/IbrahimSalah/Arabic-TTS-Spark) |
+| **LLMVoX** | 30M streaming TTS for any LLM, first Arabic autoregressive TTS | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/MBZUAI/LLMVoX) |
+| **XTTS-v2** | Coqui's multilingual voice cloning, Arabic support, 6s cloning | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/coqui/XTTS-v2) |
+| **Arabic MMS Speech Synthesis** | VITS-based Arabic TTS from MMS (36M params) | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/SeyedAli/Arabic-Speech-synthesis-MMS) |
+| **tts-arabic-pytorch** | Tacotron2 + FastPitch + HiFi-GAN for Arabic | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/nipponjo/tts-arabic-pytorch) |
+| **tts_arabic (ONNX)** | FastPitch + Mixer-TTS in ONNX for offline Arabic TTS | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/nipponjo/tts_arabic) |
+| **Arabic Tacotron TTS** | End-to-end Arabic TTS based on Tacotron | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/yoosif0/arabic-tacotron-tts) |
+| **Piper TTS** | Fast local neural TTS, Arabic voices available | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/rhasspy/piper) |
+
+### 📊 Arabic TTS Datasets & Benchmarks
+
+| Resource | Description | Link |
+|:---|:---|:---:|
+| **ArVoice** | Multi-speaker MSA corpus, 83h, 11 voices, diacritized | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/MBZUAI/ArVoice) |
+| **ClArTTS** | Classical Arabic TTS corpus by MBZUAI | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/MBZUAI/ClArTTS) |
+| **Arabic Speech Corpus** | Nawar Halabi's Levantine Arabic TTS corpus (CC-BY-4.0) | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/halabi2016/arabic_speech_corpus) |
+| **SawtArabi** | First Arabic dialectal + code-switching TTS benchmark | [![Paper](https://img.shields.io/badge/-Paper-B31B1B?logo=arxiv&logoColor=white)](https://www.isca-archive.org/interspeech_2025/lodagala25_interspeech.pdf) |
+| **Open-Source Arabic TTS Benchmark** | SILMA AI's auditory assessment benchmark | [![HF](https://img.shields.io/badge/-Space-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/spaces/silma-ai/opensource-arabic-tts-benchmark) |
 
 <div align="right"><a href="#-table-of-contents">⬆ Back to Top</a></div>
 
