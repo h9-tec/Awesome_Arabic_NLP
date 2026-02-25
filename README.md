@@ -96,6 +96,7 @@ Models · Datasets · Tools · Research · Companies
 | **GATmath and GATLc** | Benchmarks from Saudi GAT exams | [![Paper](https://img.shields.io/badge/-Paper-B31B1B?logo=arxiv&logoColor=white)](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0329129) |
 | **ArabicRAGB** | Arabic RAG Benchmark (multi-dialect) | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/HeshamHaroon/ArabicRAGB) |
 | **ACVA** | Arabic Cultural Value Alignment (8000+ questions, 58 areas) | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/FreedomIntelligence/ACVA-Arabic-Cultural-Value-Alignment) |
+| **AraDiCE** | Benchmarks for dialectal and cultural capabilities of LLMs | [![Paper](https://img.shields.io/badge/-Paper-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2409.11404) |
 
 <div align="right"><a href="#-table-of-contents">⬆ Back to Top</a></div>
 
@@ -126,6 +127,20 @@ Models · Datasets · Tools · Research · Companies
 | **Gemma 3** | 1B-27B | Google | Multimodal capabilities | [![HF](https://img.shields.io/badge/-Collection-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/collections/google/gemma-3-release-67c6c6f89c4f76621268bb6d) |
 | **Cohere Command-A** | 111B | Cohere | Optimized for RAG | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/CohereForAI/c4ai-command-a-03-2025) |
 | **Mistral Saba** | 24B | Mistral | Commercial API | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://mistral.ai/news/mistral-saba) |
+| **Falcon Arabic** | 7B | TII (UAE) | First Arabic model in Falcon series, top of OALL | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/tiiuae/Falcon3-7B-Instruct) |
+| **Falcon-H1-Arabic** | 3B-34B | TII (UAE) | Hybrid Mamba-Transformer, 128K-256K context | [![HF](https://img.shields.io/badge/-Collection-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/collections/tiiuae/falcon-h1-6819f2795bc4d0b25a2567e3) |
+| **ALLaM-2** | 7B-70B | SDAIA & IBM | 500B+ Arabic tokens, largest Arabic training set | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/ALLaM-AI) |
+| **Mulhem** | - | SDAIA | Open-source Arabic-first LLM from Saudi Arabia | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://sdaia.gov.sa/) |
+| **Arcee-Meraj** | 72B | Arcee AI | Enterprise Arabic LLM based on Qwen2-72B | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/arcee-ai/Arcee-Meraj) |
+| **Arcee-Meraj-Mini** | 7B | Arcee AI | Top OALL among 7B models | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/arcee-ai/Arcee-Meraj-Mini) |
+| **Aya-Expanse** | 8B-32B | Cohere | State-of-the-art multilingual with strong Arabic | [![HF](https://img.shields.io/badge/-Collection-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/collections/CohereForAI/c4ai-aya-expanse-66f573116fef65271be752e9) |
+| **SILMA Kashif** | 2B | SILMA AI | Lightweight RAG-optimized Arabic model | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/silma-ai/SILMA-Kashif-2B-Instruct-v1.0) |
+| **Ar-stablelm-2-chat** | 1.6B | Stability AI | Small Arabic chat model | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/stabilityai/stablelm-2-1_6b-chat) |
+| **Yehia** | 7B | Navid-AI | Based on ALLaM, Arabic instruction-tuned | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/Navid-AI/Yehia-7B) |
+| **AraLLaMA** | 7B | Bashar Alhafni | LLaMA2 pre-trained on Arabic data | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/bashar-talafha/AraLLaMA) |
+| **Shahin** | 14B | malhajar | Syrian Arabic dialect, Qwen2.5-based | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/malhajar/Shahin-v0.1-14B) |
+| **Labess Chat** | 7B | Linagora | Tunisian Arabic, based on Jais architecture | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/Linagora/Labess-chat-7b) |
+| **Phi-4** | 4B | Microsoft | Multilingual with Arabic, compact & efficient | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/microsoft/phi-4) |
 
 ### 🌐 Multimodal Models
 
@@ -133,6 +148,8 @@ Models · Datasets · Tools · Research · Companies
 |:---|:---:|:---|:---|:---:|
 | **AIN** | 8B | MBZUAI | Arabic-centric Large Multimodal Model | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/mbzuai-oryx/AIN) |
 | **Dallah** | - | UBC-NLP | Advanced multimodal LLM for Arabic | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/UBC-NLP/dallah) |
+| **Peacock** | 7B | UBC-NLP | Arabic multimodal (InstructBLIP + AraLLaMA) | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/UBC-NLP/Peacock) |
+| **Qalam** | - | - | Arabic OCR/HWR multimodal LLM, 0.80% WER | [![Paper](https://img.shields.io/badge/-Paper-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2407.13559) |
 
 ### 🧠 Transformer-based Models
 
