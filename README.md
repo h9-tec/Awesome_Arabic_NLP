@@ -98,6 +98,7 @@ Models · Datasets · Tools · Research · Companies
 | **ACVA** | Arabic Cultural Value Alignment (8000+ questions, 58 areas) | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/FreedomIntelligence/ACVA-Arabic-Cultural-Value-Alignment) |
 | **AraDiCE** | Benchmarks for dialectal and cultural capabilities of LLMs | [![Paper](https://img.shields.io/badge/-Paper-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2409.11404) |
 | **Open Universal Arabic ASR Leaderboard** | Multi-dialectal Arabic speech recognition benchmark | [![HF](https://img.shields.io/badge/-Leaderboard-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/spaces/elmresearchcenter/open_universal_arabic_asr_leaderboard) |
+| **KITAB-Bench** | Arabic OCR benchmark: 8,809 samples, 9 domains, 36 sub-domains (MBZUAI) | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/MBZUAI/KITAB-Bench) |
 
 <div align="right"><a href="#-table-of-contents">⬆ Back to Top</a></div>
 
@@ -266,8 +267,30 @@ Models · Datasets · Tools · Research · Companies
 
 | Model | Key Features | Link |
 |:---|:---|:---:|
+| **QARI-OCR v0.2** | Updated Qwen2-VL 2B for Arabic OCR; WER 0.160, CER 0.061 | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/NAMAA-Space/Qari-OCR-0.2-VL-2B-Instruct) |
 | **Qari-OCR-0.1-VL-2B-Instruct** | Qwen2 VL 2B fine-tuned for Arabic OCR | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/NAMAA-Space/Qari-OCR-0.1-VL-2B-Instruct) |
-| **arabic-large-nougat** | End-to-end structured OCR for Arabic | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/MohamedRashad/arabic-large-nougat) |
+| **Baseer** | Arabic document-to-markdown, Qwen2.5-VL-3B based (Misraj AI), WER 0.25 | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/Misraj/Baseer-Qwen2.5-VL-3B-Instruct) |
+| **Arabic-English-handwritten-OCR-v3** | Qwen2.5-VL-3B, trained on 47K handwriting samples | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/sherif1313/Arabic-English-handwritten-OCR-v3) |
+| **AtlasOCR** | First Darija/Moroccan Arabic OCR, Qwen2.5-VL-3B based | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/atlasia/AtlasOCR) |
+| **DIMI-Arabic-OCR** | Printed Arabic with diacritics OCR (Qwen2-VL based) | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/AhmedZaky1/DIMI-Arabic-OCR) |
+| **arabic-large-nougat** | End-to-end structured OCR for Arabic documents | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/MohamedRashad/arabic-large-nougat) |
+| **arabic-small-nougat** | Smaller Nougat variant for Arabic document OCR | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/MohamedRashad/arabic-small-nougat) |
+
+### 🔧 Traditional OCR Tools (Arabic Support)
+
+| Tool | Key Features | Link |
+|:---|:---|:---:|
+| **PaddleOCR** | High-performance multilingual OCR with Arabic support | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/PaddlePaddle/PaddleOCR) |
+| **EasyOCR** | Ready-to-use OCR with Arabic support (80+ languages) | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/JaidedAI/EasyOCR) |
+| **Tesseract OCR** | Open-source OCR engine with Arabic language packs | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/tesseract-ocr/tesseract) |
+
+### 📊 Arabic OCR Datasets & Benchmarks
+
+| Resource | Description | Link |
+|:---|:---|:---:|
+| **KITAB-Bench** | 8,809 samples across 9 domains & 36 sub-domains (MBZUAI, ACL 2025) | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/MBZUAI/KITAB-Bench) |
+| **SARD** | Synthetic Arabic OCR dataset for recognition training | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/riotu-lab/SARD) |
+| **Misraj-DocOCR Benchmark** | Arabic document OCR evaluation benchmark by Misraj AI | [![HF](https://img.shields.io/badge/-Benchmark-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/Misraj/Misraj-DocOCR-Benchmark) |
 
 ### 🖼️ Image Captioning
 
