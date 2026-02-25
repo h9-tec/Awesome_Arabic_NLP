@@ -141,6 +141,18 @@ Models · Datasets · Tools · Research · Companies
 | **Shahin** | 14B | malhajar | Syrian Arabic dialect, Qwen2.5-based | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/malhajar/Shahin-v0.1-14B) |
 | **Labess Chat** | 7B | Linagora | Tunisian Arabic, based on Jais architecture | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/Linagora/Labess-chat-7b) |
 | **Phi-4** | 4B | Microsoft | Multilingual with Arabic, compact & efficient | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/microsoft/phi-4) |
+| **ALLaM 34B** | 34B | HUMAIN (Saudi) | Most advanced Arabic LLM, 8PB training data, powers HUMAIN Chat | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://www.humain.com/en/news/humain-chat-launch) |
+| **Karnak** | 30B-70B | ITIDA (Egypt) | Egypt's national sovereign LLM, top Arabic in its class | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://itida.gov.eg/English/PressReleases/Pages/egypt-national-ai-karnak-llm-launch-Ai-Everything-MEA-2026.aspx) |
+| **NOOR** | 10B | TII (UAE) | World's largest Arabic NLP model at launch, GPT-3 architecture | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://noor.tii.ae/) |
+| **Noon** | 7B | Naseej | BLOOM-based Arabic LLM, instruction-tuned | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/Naseej/noon-7b) |
+| **Fanar Star** | 7B | QCRI (Qatar) | Trained from scratch on 1T Arabic/English tokens | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://www.fanar.qa/en) |
+| **JASMINE** | 0.3B-6.7B | UBC-NLP | Arabic GPT for few-shot learning, 400GB training data | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/UBC-NLP/Jasmine-350M) |
+| **Kawn** | - | Misraj AI (Saudi) | Arabic-first ecosystem with 15-dialect support | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://misraj.ai/) |
+| **Kuwain** | 1.5B | Misraj AI | Arabic SLM via language injection, 70% cost reduction | [![Paper](https://img.shields.io/badge/-Paper-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2504.15120) |
+| **Mutarjim** | 1.5B | Misraj AI | Arabic-English translation, rivals GPT-4o mini | [![Paper](https://img.shields.io/badge/-Paper-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2505.17894) |
+| **GemmAr** | 7B | ClusterlabAi | Gemma Arabic instruction-tuned on InstAr-500k | [![Paper](https://img.shields.io/badge/-Paper-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2407.02147) |
+| **LlamAr** | 8B | ClusterlabAi | LLaMA 3 Arabic instruction-tuned on InstAr-500k | [![Paper](https://img.shields.io/badge/-Paper-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2407.02147) |
+| **Calme 2.2** | 72B | MaziyarPanahi | Qwen2-based, strong OALL performance | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/MaziyarPanahi/calme-2.2-qwen2-72b) |
 
 ### 🌐 Multimodal Models
 
