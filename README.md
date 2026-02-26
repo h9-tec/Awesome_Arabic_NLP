@@ -120,7 +120,7 @@ Models · Datasets · Tools · Research · Companies
 |:---|:---:|:---|:---|:---:|
 | **Jais** | 13B, 30B | Inception AI, Cerebras | Arabic-centric, bilingual, instruction-tuned | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/inceptionai/jais-30b-v3) |
 | **SILMA 1.0** | 9B | SILMA AI | Top-ranked Arabic LLM built on Gemma | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/silma-ai/SILMA-9B-Instruct-v1.0) |
-| **ALLaM** | 7B | SDAIA & IBM | Saudi's sovereign model, enterprise-focused | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/ALLaM-AI/ALLaM-7B-Instruct-preview) |
+| **ALLaM** | 7B | SDAIA & IBM | Saudi's sovereign model, enterprise-focused | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/humain-ai/ALLaM-7B-Instruct-preview) |
 | **Fanar-1-9B** | 9B | QCRI | Arabic-English LLM | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/QCRI/Fanar-1-9B-Instruct) |
 | **AceGPT** | 7B | FreedomIntelligence | Top performance, culturally aligned | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/FreedomIntelligence/AceGPT) |
 | **Atlas-Chat** | 2B-27B | MBZUAI-Paris Lab | Moroccan Darija dialect | [![HF](https://img.shields.io/badge/-Collection-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/collections/MBZUAI-Paris/atlas-chat) |
@@ -137,18 +137,18 @@ Models · Datasets · Tools · Research · Companies
 | **Cohere Command-A** | 111B | Cohere | Optimized for RAG | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/CohereForAI/c4ai-command-a-03-2025) |
 | **Mistral Saba** | 24B | Mistral | Commercial API | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://mistral.ai/news/mistral-saba) |
 | **Falcon Arabic** | 7B | TII (UAE) | First Arabic model in Falcon series, top of OALL | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/tiiuae/Falcon3-7B-Instruct) |
-| **Falcon-H1-Arabic** | 3B-34B | TII (UAE) | Hybrid Mamba-Transformer, 128K-256K context | [![HF](https://img.shields.io/badge/-Collection-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/collections/tiiuae/falcon-h1-6819f2795bc4d0b25a2567e3) |
-| **ALLaM-2** | 7B-70B | SDAIA & IBM | 500B+ Arabic tokens, largest Arabic training set | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/ALLaM-AI) |
+| **Falcon-H1-Arabic** | 3B-34B | TII (UAE) | Hybrid Mamba-Transformer, 128K-256K context | [![HF](https://img.shields.io/badge/-Collection-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/collections/tiiuae/falcon-h1) |
+| **ALLaM-2-7B** | 7B | SDAIA & IBM | 500B+ Arabic tokens, largest Arabic training set | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://ai.azure.com/catalog/models/ALLaM-2-7b-instruct) |
 | **Mulhem** | - | SDAIA | Open-source Arabic-first LLM from Saudi Arabia | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://sdaia.gov.sa/) |
-| **Arcee-Meraj** | 72B | Arcee AI | Enterprise Arabic LLM based on Qwen2-72B | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/arcee-ai/Arcee-Meraj) |
-| **Arcee-Meraj-Mini** | 7B | Arcee AI | Top OALL among 7B models | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/arcee-ai/Arcee-Meraj-Mini) |
-| **Aya-Expanse** | 8B-32B | Cohere | State-of-the-art multilingual with strong Arabic | [![HF](https://img.shields.io/badge/-Collection-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/collections/CohereForAI/c4ai-aya-expanse-66f573116fef65271be752e9) |
+| **Arcee-Meraj** | 72B | Arcee AI | Enterprise Arabic LLM based on Qwen2-72B | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://www.arcee.ai/blog/arcee-meraj-maarj) |
+| **Meraj-Mini** | 7B | Arcee AI | Arabic-capable Meraj family (public checkpoint) | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/arcee-ai/Meraj-Mini) |
+| **Aya-Expanse** | 8B-32B | Cohere | State-of-the-art multilingual with strong Arabic | [![HF](https://img.shields.io/badge/-Space-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/spaces/CohereLabs/aya_expanse) |
 | **SILMA Kashif** | 2B | SILMA AI | Lightweight RAG-optimized Arabic model | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/silma-ai/SILMA-Kashif-2B-Instruct-v1.0) |
 | **Ar-stablelm-2-chat** | 1.6B | Stability AI | Small Arabic chat model | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/stabilityai/stablelm-2-1_6b-chat) |
 | **Yehia** | 7B | Navid-AI | Based on ALLaM, Arabic instruction-tuned | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/Navid-AI/Yehia-7B) |
-| **AraLLaMA** | 7B | Bashar Alhafni | LLaMA2 pre-trained on Arabic data | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/bashar-talafha/AraLLaMA) |
-| **Shahin** | 14B | malhajar | Syrian Arabic dialect, Qwen2.5-based | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/malhajar/Shahin-v0.1-14B) |
-| **Labess Chat** | 7B | Linagora | Tunisian Arabic, based on Jais architecture | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/Linagora/Labess-chat-7b) |
+| **AraLLaMA** | 7B | Bashar Alhafni | Arabic adaptation via progressive vocabulary expansion | [![Paper](https://img.shields.io/badge/-Paper-B31B1B?logo=arxiv&logoColor=white)](https://aclanthology.org/2025.acl-long.100/) |
+| **Shahin** | 14B | malhajar | Syrian Arabic dialect, Qwen2.5-based | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/malhajar/Shahin-v0.1) |
+| **Labess Chat** | 7B | Linagora | Tunisian Arabic, based on Jais architecture | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/linagora/Labess-7b-chat) |
 | **Phi-4** | 4B | Microsoft | Multilingual with Arabic, compact & efficient | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/microsoft/phi-4) |
 | **ALLaM 34B** | 34B | HUMAIN (Saudi) | Most advanced Arabic LLM, 8PB training data, powers HUMAIN Chat | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://www.humain.com/en/news/humain-chat-launch) |
 | **Karnak** | 30B-70B | ITIDA (Egypt) | Egypt's national sovereign LLM, top Arabic in its class | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://itida.gov.eg/English/PressReleases/Pages/egypt-national-ai-karnak-llm-launch-Ai-Everything-MEA-2026.aspx) |
@@ -194,6 +194,7 @@ Models · Datasets · Tools · Research · Companies
 | **GATE-AraBert-v1** | Omartificial-Intelligence-Space | SOTA on MTEB Arabic STS | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/Omartificial-Intelligence-Space/GATE-AraBert-v1) |
 | **Arabic-Triplet-Matryoshka-V2** | Omartificial-Intelligence-Space | Matryoshka representation | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/Omartificial-Intelligence-Space/Arabic-Triplet-Matryoshka-V2) |
 | **Swan** | UBC-NLP | Dialect-aware, cross-lingual | [![Paper](https://img.shields.io/badge/-Paper-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2411.01192) |
+| **multilingual-e5-base** | intfloat | Strong multilingual embeddings baseline (incl. Arabic) | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/intfloat/multilingual-e5-base) |
 | **asafaya/bert-base-arabic** | asafaya | BERT-based Arabic embeddings | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/asafaya/bert-base-arabic) |
 | **ModernBERT-Arabic** | BounharAbdelaziz | ModernBERT-based sentence embeddings | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/BounharAbdelaziz/ModernBERT-Arabic-Embeddings) |
 | **DIMI-embedding** | AhmedZaky1 | Matryoshka + AraBERT for NLI | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/AhmedZaky1/DIMI-embedding-matryoshka-arabic) |
@@ -694,6 +695,8 @@ This work is licensed under a [Creative Commons Attribution 4.0 International Li
 [18] ALLaM: Large Language Models for Arabic and English. (2024). *arXiv:2407.15390*. https://arxiv.org/abs/2407.15390
 
 [19] EgyBERT: A Large Language Model Pretrained on Egyptian Dialect Corpora. (2024). *arXiv:2408.03524*. https://arxiv.org/abs/2408.03524
+
+[20] Multilingual E5 Text Embeddings: A Technical Report. (2024). *arXiv:2402.05672*. https://arxiv.org/abs/2402.05672
 
 ---
 
