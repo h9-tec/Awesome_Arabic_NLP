@@ -440,6 +440,7 @@ Models · Datasets · Tools · Research · Companies
 | **Qalsadi** | Arabic morphological analyzer and lemmatizer | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/linuxscout/qalsadi) |
 | **PyArabic** | Python package for Arabic text manipulation | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/linuxscout/pyarabic) |
 | **tnkeeh** | Arabic text cleaning, normalization, preprocessing | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/ARBML/tnkeeh) |
+| **darija-tools** | Dependency-free Moroccan Darija normalization and Arabizi-to-Arabic transliteration | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/Samielakkad/darija-tools) |
 | **Maha** | Text processing library for Arabic text | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/TRoboto/Maha) |
 | **Mishkal** | Arabic text diacritizer (rule-based) | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/linuxscout/mishkal) |
 | **arabicprocess** | Python library for Arabic preprocessing | [![PyPI](https://img.shields.io/badge/-PyPI-3775A9?logo=pypi&logoColor=white)](https://pypi.org/project/arabicprocess/) |
