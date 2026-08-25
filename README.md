@@ -434,6 +434,7 @@ Models · Datasets · Tools · Research · Companies
 
 | Tool | Description | Link |
 |:---|:---|:---:|
+| **araclean** | Offset-preserving Arabic text normalization and cleaning ([docs](https://mhdmartini.github.io/araclean/latest/guides/offset-preserving/)) | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/MhdMartini/araclean) |
 | **camel_tools** | Suite of Arabic NLP tools (morphology, POS, NER, etc.) | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/CAMeL-Lab/camel_tools) |
 | **Farasa** | Fast and accurate Arabic text processing toolkit | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://farasa.qcri.org/) |
 | **SinaTools** | Open source toolkit by SinaLab (Python APIs, CLI) | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/SinaLab/sinatools) |
