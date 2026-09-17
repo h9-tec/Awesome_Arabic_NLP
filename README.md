@@ -607,6 +607,7 @@ Models · Datasets · Tools · Research · Companies
 | **Kngine** | Semantic search & NLP | Arabic semantic search, data mining, knowledge engine | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://kngine.com/) |
 | **Monta AI** | Enterprise AI solutions | LLM & RAG-based Arabic business automation | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://monta-ai.com/) |
 | **Elves** | Conversational commerce | Arabic AI-assisted concierge, human-in-the-loop ML | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://www.elves.com/) |
+| **Dike** | Grounded MENA legal AI | Zero-hallucination legal search/reasoning API + MCP server over Saudi, UAE, Qatar, Kuwait, and Egyptian primary law | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://dike.it.com/) |
 
 > 💡 **Egypt's AI ecosystem**: Egypt unveiled **Karnak**, its national LLM (30-80B params, highest-ranking Arabic LLM in its class), and launched the **National AI Strategy 2025-2030** targeting $42.7B in AI economic value, 30,000 AI specialists, and 250+ AI startups. Karnak powers **SIA** (AI education tutor), **AcQua** (NLP call auditing), **BelMasry** (colloquial Arabic NLP engines), and **Torgoman** (specialized translation).
 
