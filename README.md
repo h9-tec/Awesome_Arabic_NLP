@@ -17,7 +17,7 @@ Models · Datasets · Tools · Research · Companies
 
 <div align="center">
 
-<a href="https://github.com/h9-tec/arabic-ai-atlas"><img src="https://raw.githubusercontent.com/h9-tec/arabic-ai-atlas/main/assets/map.svg" alt="Arabic AI Atlas map" width="100%"/></a>
+<a href="https://github.com/h9-tec/arabic-ai-atlas"><img src="https://raw.githubusercontent.com/h9-tec/arabic-ai-atlas/main/assets/geo.svg" alt="Arabic AI Atlas map" width="100%"/></a>
 
 🗺️ **New: the [Arabic AI Atlas](https://github.com/h9-tec/arabic-ai-atlas)** — this list as a live landscape map, machine-readable JSON, and a Claude Code plugin + MCP server your agent can query.
 
