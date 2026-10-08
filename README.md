@@ -453,6 +453,7 @@ Models · Datasets · Tools · Research · Companies
 | **Mishkal** | Arabic text diacritizer (rule-based) | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/linuxscout/mishkal) |
 | **arabicprocess** | Python library for Arabic preprocessing | [![PyPI](https://img.shields.io/badge/-PyPI-3775A9?logo=pypi&logoColor=white)](https://pypi.org/project/arabicprocess/) |
 | **MADAMIRA** | Morphological analysis, diacritization, POS tagging | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://nyuad.nyu.edu/en/research/faculty-labs-and-projects/computational-approaches-to-modeling-language-lab/research/morphological-analysis-of-arabic.html) |
+| **arabic-core** | TypeScript/JS: tashkeel removal, normalization, digit conversion, grammatical number-to-words, Hijri dates | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/getkirnu/arabic-core) |
 
 ### 📚 Specialized Libraries
 
