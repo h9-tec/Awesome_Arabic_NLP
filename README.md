@@ -408,6 +408,7 @@ Models · Datasets · Tools · Research · Companies
 | **Egyptian Dialogue** | 4,322 Egyptian Arabic-English parallel pairs from TV subtitles | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/fr3on/egyptian-dialogue) |
 | **NileChat LHV-Egypt** | Egyptian dialect dataset for LLM pre-training | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/UBC-NLP/nilechat-lhv-egy) |
 | **NileChat Arabizi-Egypt** | Egyptian Arabizi dataset for LLM pre-training | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/UBC-NLP/nilechat-arabizi-egy) |
+| **Lebanese Legislation** | Lebanese laws, decrees, court rulings and Official Gazette in Arabic and French, with an amendment graph | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/taktekhq/lebanese-legislation) |
 
 ### 🎤 Speech Datasets
 
