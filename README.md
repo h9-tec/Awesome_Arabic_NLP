@@ -220,6 +220,7 @@ Models · Datasets · Tools · Research · Companies
 | **arat5-dialects-translation** | Dialect→MSA | AraT5 dialect translation | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/PRAli22/arat5-arabic-dialects-translation) |
 | **Masrawy Translator** | EN→Egyptian Arabic | 150K+ rows, 10M+ tokens, Egyptian dialect | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/NAMAA-Space/masrawy-english-to-egyptian-arabic-translator-v2.9) |
 | **GLiNER Arabic** | Named Entity Recognition | Plug-and-play Arabic NER (NAMAA-Space) | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/NAMAA-Space/gliner_arabic-v2.1) |
+| **decima-pii** | PII Detection | Personal data in Arabic dialects, Arabizi and Arabic-Indic digits (Gulf/Egyptian IDs, IBANs, phones) | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/amyrmahdy/decima-pii) |
 
 <div align="right"><a href="#-table-of-contents">⬆ Back to Top</a></div>
 
