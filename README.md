@@ -288,6 +288,7 @@ Models · Datasets · Tools · Research · Companies
 
 | Model | Key Features | Link |
 |:---|:---|:---:|
+| **Nuqta-Arabic-OCR (4B / 0.8B)** | Qwen3.5-based document OCR (Apache-2.0). 4B: KITAB-Bench CER 0.106, Misraj-DocOCR MARS 82.8. Copies printed tashkeel without adding any; tables as HTML, IDs and passports; GGUF builds for phones | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/SalahALHaismawi/Nuqta-Arabic-OCR-4B) [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/SalahALHaismawi/Nuqta-Arabic-OCR-0.8B) [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/SalahAlHaismawi/nuqta-ocr) |
 | **QARI-OCR v0.2** | Updated Qwen2-VL 2B for Arabic OCR; WER 0.160, CER 0.061 | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/NAMAA-Space/Qari-OCR-0.2-VL-2B-Instruct) |
 | **Qari-OCR-0.1-VL-2B-Instruct** | Qwen2 VL 2B fine-tuned for Arabic OCR | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/NAMAA-Space/Qari-OCR-0.1-VL-2B-Instruct) |
 | **Baseer** | Arabic document-to-markdown, Qwen2.5-VL-3B based (Misraj AI), WER 0.25 | [![HF](https://img.shields.io/badge/-Model-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/Misraj/Baseer-Qwen2.5-VL-3B-Instruct) |
