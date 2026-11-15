@@ -113,6 +113,7 @@ Models · Datasets · Tools · Research · Companies
 | **AraDiCE** | Benchmarks for dialectal and cultural capabilities of LLMs | [![Paper](https://img.shields.io/badge/-Paper-B31B1B?logo=arxiv&logoColor=white)](https://arxiv.org/abs/2409.11404) |
 | **Open Universal Arabic ASR Leaderboard** | Multi-dialectal Arabic speech recognition benchmark | [![HF](https://img.shields.io/badge/-Leaderboard-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/spaces/elmresearchcenter/open_universal_arabic_asr_leaderboard) |
 | **KITAB-Bench** | Arabic OCR benchmark: 8,809 samples, 9 domains, 36 sub-domains (MBZUAI) | [![HF](https://img.shields.io/badge/-Dataset-FFD21E?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/MBZUAI/KITAB-Bench) |
+| **Gulf Text-to-SQL Bench** | Text-to-SQL benchmark: the same questions in English, MSA and Gulf dialect, scored by SQL execution accuracy | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/usmanbilytica/arabic-text-to-sql-bench) |
 
 <div align="right"><a href="#-table-of-contents">⬆ Back to Top</a></div>
 
