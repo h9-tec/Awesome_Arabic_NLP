@@ -463,6 +463,7 @@ Models · Datasets · Tools · Research · Companies
 | **arabic-stop-words** | Largest list of Arabic stop words | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/mohataher/arabic-stop-words) |
 | **qawafi** | Arabic poetry analysis | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/ARBML/qawafi) |
 | **arabic_vocalizer** | Deep-learning diacritization (ONNX format) | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/nipponjo/arabic_vocalizer) |
+| **arabic-writing-skill** | Arabic proofreading skill for AI tools: spelling, grammar, punctuation, style | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/a-khalid/arabic-writing-skill) |
 
 ### 🌍 Translation
 
