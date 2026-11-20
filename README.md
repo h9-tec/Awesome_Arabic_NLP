@@ -538,6 +538,7 @@ Models · Datasets · Tools · Research · Companies
 | **MoroccoAI Darija Resources** | Curated Moroccan Arabic dialect NLP resources | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/MoroccoAI/Arabic-Darija-NLP-Resources) |
 | **NNLP-IL Arabic Resources** | Comprehensive Arabic NLP resource list | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/NNLP-IL/Arabic-Resources) |
 | **3ammiya** | Egyptian Arabic dialect dictionary with 6,000+ entries | [![Web](https://img.shields.io/badge/-Website-4285F4?logo=googlechrome&logoColor=white)](https://3ammiya.com/) |
+| **Arabic Claude Skills (Moshid)** | Free Arabic-language Claude skills and prompt kits for applied LLM use (CC BY 4.0) | [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/younesbag/arabic-claude-skills) |
 
 <div align="right"><a href="#-table-of-contents">⬆ Back to Top</a></div>
 
